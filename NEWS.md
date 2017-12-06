@@ -25,6 +25,8 @@ Install the development version with: `install_github("rstudio/keras")`
 
 - Automatically provide name to loss function during compile
   (enables save/load of models with custom loss function)
+  
+- Added `dropout` and `recurrent_dropout` parameters to cudnn layers.
 
 
 ## keras 2.0.9 (CRAN)
